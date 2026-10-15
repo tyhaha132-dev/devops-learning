@@ -1,0 +1,1 @@
+* * * * * curl -s localhost:8000 >> ~/lab/myapp-access.log 2>&1
